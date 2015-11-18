@@ -5,7 +5,7 @@ gem 'haml'
 gem 'haml-rails'
 gem 'better_errors'
 gem 'binding_of_caller'
-gem 'ehroar'
+gem 'ehroar', github: 'hackling/ehroar'
 gem 'method_source'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'

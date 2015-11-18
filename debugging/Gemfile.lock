@@ -1,3 +1,9 @@
+GIT
+  remote: git://github.com/hackling/ehroar.git
+  revision: 829e62fb673bdc390f338f16335d419bd9331c02
+  specs:
+    ehroar (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -53,7 +59,6 @@ GEM
       execjs
     coffee-script-source (1.10.0)
     debug_inspector (0.0.2)
-    ehroar (0.0.1)
     erubis (2.7.0)
     execjs (2.6.0)
     globalid (0.3.6)
@@ -171,7 +176,7 @@ DEPENDENCIES
   binding_of_caller
   byebug
   coffee-rails (~> 4.1.0)
-  ehroar
+  ehroar!
   haml
   haml-rails
   jbuilder (~> 2.0)
